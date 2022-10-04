@@ -1,6 +1,6 @@
 <?php
 
 
+echo 'Machine Learning';
 
-
-phpinfo();
+//phpinfo();
